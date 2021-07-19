@@ -73,7 +73,7 @@ Rails.application.configure do
   port:                 587,
   domain:               'localhost',
   user_name:            'sirishagodina9@gmail.com',
-  password:             '42383siri',
+  password:             '42483siri',
   authentication:       'plain'
   }
 end

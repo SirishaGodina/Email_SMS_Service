@@ -3,6 +3,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.7.3'
 gem 'httparty'
+gem 'timeout'
 gem 'pg'
 gem 'jwt'
 gem 'bcrypt', '~> 3.1.7'

@@ -136,6 +136,7 @@ GEM
       sprockets (>= 3.0.0)
     sqlite3 (1.4.2)
     thor (1.1.0)
+    timeout (0.1.1)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
     tzinfo-data (1.2021.1)
@@ -158,6 +159,7 @@ DEPENDENCIES
   puma (~> 5.0)
   rails (~> 6.1.3, >= 6.1.3.2)
   sqlite3 (~> 1.4)
+  timeout
   tzinfo-data
 
 RUBY VERSION
